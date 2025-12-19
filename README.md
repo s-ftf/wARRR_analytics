@@ -23,8 +23,8 @@ python3 analyze_warrr.py transfer_events.json
 ### Precompiled Reports
 current as of March 1st, 2024 
 
-* **[warrr_analysis_report.txt](https://raw.githubusercontent.com/scott-ftf/wARRR_analytics/main/warrr_analysis_report.txt)** 
+* **[warrr_analysis_report.txt](https://raw.githubusercontent.com/s-ftf/wARRR_analytics/main/warrr_analysis_report.txt)** 
 
-* **[transfer_events.json](https://github.com/scott-ftf/wARRR_analytics/blob/main/transfer_events.json)** (all wARRR transfers in a json array)
+* **[transfer_events.json](https://github.com/s-ftf/wARRR_analytics/blob/main/transfer_events.json)** (all wARRR transfers in a json array)
 
 
